@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BadiProjects.iml" filepath="$PROJECT_DIR$/BadiProjects.iml" />
+      <module fileurl="file://$USER_HOME$/hackathon/hackathon.iml" filepath="$USER_HOME$/hackathon/hackathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../i4-programming-master/i4-programming-master.iml" filepath="$PROJECT_DIR$/../i4-programming-master/i4-programming-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Master/java-projects/java-projects.iml" filepath="$PROJECT_DIR$/../Master/java-projects/java-projects.iml" />
+    </modules>
+  </component>
+</project>

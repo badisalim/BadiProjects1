@@ -1,0 +1,6 @@
+--- Payment Report ---
+
+Total money obtained: 3834.63
+Most profitable month: SEPTEMBER
+Average paid per month: 319.5525
+Most used credit card issuer: MasterCard
