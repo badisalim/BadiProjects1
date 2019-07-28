@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3799e55-4a69-4e71-a948-7e3d45a059d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PdfExersices/GitHub and Git instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PdfExersices/GitHub and Git instructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portions-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/portions-10.txt" afterDir="false" />
       <change beforePath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/EntryReaderTest.java" beforeDir="false" afterPath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/EntryReaderTest.java" afterDir="false" />
       <change beforePath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/SetupApp.java" beforeDir="false" afterPath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/SetupApp.java" afterDir="false" />
       <change beforePath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/ButterflyBusinessApp.java" beforeDir="false" afterPath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/ButterflyBusinessApp.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/CreditCardsTest.java" beforeDir="false" afterPath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/CreditCardsTest.java" afterDir="false" />
       <change beforePath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/validation/LuhnValidatorTest.java" beforeDir="false" afterPath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/validation/LuhnValidatorTest.java" afterDir="false" />
       <change beforePath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/file/butterfly-business-bi.txt" beforeDir="false" afterPath="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/file/butterfly-business-bi.txt" afterDir="false" />
     </list>
@@ -65,81 +67,59 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/butterfly-business-bi.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/WordSummariezer/AliceApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document-lcd.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ButterflyBusiness/AccountApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/document-lcd2222.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/Sequence_Resembalance/Sequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/names1-week11.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/Sequence_Resembalance/SequenceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#1177#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/names-week11.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/challenge/katabank/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/challenge/katabank/KataBankApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/ABCD/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/portions-10.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/ABCD/Test5.java">
+        <entry file="file://$PROJECT_DIR$/PdfExersices/GitHub and Git instructions.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="76">
+              <caret line="49" column="6" lean-forward="true" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/CreditCardBadi/CardApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/PdfExersices/ideone_KWIyQx.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -165,6 +145,7 @@
       <dir>$PROJECT_DIR$/src/animal</dir>
       <dir>$PROJECT_DIR$/src/ButterflyBusiness</dir>
       <dir>$PROJECT_DIR$/src</dir>
+      <dir>$USER_HOME$/hackathon</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -173,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/WordSummarizer/LetterSummarizer.java" />
-        <option value="$PROJECT_DIR$/src/WordSummarizer/AliceApp.java" />
         <option value="$PROJECT_DIR$/src/WordSummarizer/WordSummarizer.java" />
         <option value="$PROJECT_DIR$/src/WordSummarizer/WordReader.java" />
         <option value="$PROJECT_DIR$/src/WordSummariezer/WordReader.java" />
@@ -223,6 +202,8 @@
         <option value="$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/SetupApp.java" />
         <option value="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/ButterflyBusinessApp.java" />
         <option value="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/file/butterfly-business-bi.txt" />
+        <option value="$PROJECT_DIR$/src/ButterflyBusiness/CardApplication.java" />
+        <option value="$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/validation/LuhnValidatorTest.java" />
         <option value="$PROJECT_DIR$/butterfly-business-bi.txt" />
       </list>
     </option>
@@ -233,11 +214,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="223" />
-    <option name="y" value="106" />
-    <option name="width" value="1161" />
-    <option name="height" value="662" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="70" />
+    <option name="y" value="27" />
+    <option name="width" value="648" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -264,24 +245,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="BadiProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BadiProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="hackathon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BadiProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BadiProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java-projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BadiProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-projects" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BadiProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,17 +282,17 @@
     <property name="SearchEverywhereHistoryKey" value="robodog&#9;FILE&#9;file:///home/badi/Downloads/i4-programming-master/src/lecture/week9/robodog/robodog.txt&#10;usernamepassword&#9;PSI&#9;JAVA://com.sun.jmx.remote.security.FileLoginModule#getUsernamePassword&#10;password&#9;FILE&#9;jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/sun/security/util/Password.class&#10;pass&#9;PSI&#9;JAVA://reflection.week2.PostOfficeAssistant&#10;password nam&#9;PSI&#9;JAVA://com.sun.jmx.remote.security.FileLoginModule#passwordFileDisplayName&#10;names&#9;FILE&#9;file:///home/badi/Downloads/BadiProjects/names-week11.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559893140707" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564300491722" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Java11/hackathon" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Java11/BadiProjects" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -353,13 +342,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test5">
-    <configuration name="AccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ButterflyBusiness.AccountApp" />
+  <component name="RunManager" selected="Application.HeroApplication">
+    <configuration name="AliceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordSummariezer.AliceApp" />
       <module name="BadiProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ButterflyBusiness.*" />
+          <option name="PATTERN" value="WordSummariezer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoneyCents.Application" />
+      <module name="BadiProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MoneyCents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoneyCents.Application" />
+      <module name="java-projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MoneyCents.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -380,38 +395,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreditCardBadi.CardApplication" />
+    <configuration name="HeroApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeroAbstract.HeroApplication" />
       <module name="java-projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CreditCardBadi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KataBankApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenge.katabank.KataBankApplication" />
-      <module name="i4-programming-master" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenge.katabank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ABCD.Test5" />
-      <module name="java-projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ABCD.*" />
+          <option name="PATTERN" value="HeroAbstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +409,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Application (1)" />
+      <item itemvalue="Application.AliceApp" />
       <item itemvalue="Application.ButterflyBusinessApp" />
-      <item itemvalue="Application.AccountApp" />
-      <item itemvalue="Application.KataBankApplication" />
-      <item itemvalue="Application.Test5" />
-      <item itemvalue="Application.CardApplication" />
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.HeroApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test5" />
-        <item itemvalue="Application.CardApplication" />
-        <item itemvalue="Application.KataBankApplication" />
-        <item itemvalue="Application.AccountApp" />
+        <item itemvalue="Application.HeroApplication" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.ButterflyBusinessApp" />
+        <item itemvalue="Application.AliceApp" />
+        <item itemvalue="Application.Application (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -513,49 +502,55 @@
       <workItem from="1558355400874" duration="75000" />
       <workItem from="1558884086300" duration="4000" />
       <workItem from="1559811572407" duration="6356000" />
-      <workItem from="1559891991920" duration="843000" />
+      <workItem from="1559891991920" duration="5743000" />
+      <workItem from="1559898164996" duration="870000" />
+      <workItem from="1559901301966" duration="262000" />
+      <workItem from="1559901623731" duration="859000" />
+      <workItem from="1559910374839" duration="2608000" />
+      <workItem from="1564296717541" duration="3667000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SequencesTest - 2019.03.19 at 15h 28m 21s.xml">
-      <configuration name="SequencesTest" configurationId="JUnit" />
+    <history-entry file="MasterCardTest - 2019.06.07 at 10h 23m 14s.xml">
+      <configuration name="MasterCardTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PortionerTest - 2019.03.19 at 15h 28m 47s.xml">
+    <history-entry file="DragonsCurveTest - 2019.06.07 at 10h 24m 41s.xml">
+      <configuration name="DragonsCurveTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromesTest - 2019.06.07 at 10h 24m 55s.xml">
+      <configuration name="PalindromesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmericanExpressTest - 2019.06.07 at 10h 27m 22s.xml">
+      <configuration name="AmericanExpressTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EntryReaderTest - 2019.06.07 at 10h 29m 41s.xml">
+      <configuration name="EntryReaderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LuhnValidatorTest - 2019.07.28 at 09h 01m 14s.xml">
+      <configuration name="LuhnValidatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PortionerTest - 2019.07.28 at 09h 01m 57s.xml">
       <configuration name="PortionerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolsticesTest - 2019.03.19 at 15h 31m 55s.xml">
-      <configuration name="SolsticesTest" configurationId="JUnit" />
+    <history-entry file="SequencesTest - 2019.07.28 at 09h 03m 54s.xml">
+      <configuration name="SequencesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AmericanExpressTest - 2019.03.19 at 15h 38m 25s.xml">
+    <history-entry file="SimilaritiesTest - 2019.07.28 at 09h 09m 44s.xml">
+      <configuration name="SimilaritiesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AmericanExpressTest - 2019.07.28 at 09h 11m 13s.xml">
       <configuration name="AmericanExpressTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CardApplicationTest - 2019.05.17 at 09h 47m 54s.xml">
-      <configuration name="CardApplicationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CardApplicationTest_main - 2019.06.06 at 11h 01m 07s.xml">
-      <configuration name="CardApplicationTest.main" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AmericanExpressTest - 2019.06.06 at 11h 01m 39s.xml">
-      <configuration name="AmericanExpressTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DiscoverCardsTest - 2019.06.06 at 11h 01m 45s.xml">
-      <configuration name="DiscoverCardsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="InstaPaymentTest - 2019.06.06 at 11h 01m 54s.xml">
-      <configuration name="InstaPaymentTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LuhnValidatorTest - 2019.06.06 at 11h 13m 03s.xml">
-      <configuration name="LuhnValidatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236640000" />
+    <option name="totallyTimeSpent" value="249806000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="27" width="1299" height="741" extended-state="6" />
+    <frame x="70" y="27" width="648" height="741" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.273743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.6096346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -571,7 +566,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2892562" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289256" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20351157" side_tool="true" weight="0.37458745" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32561985" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -655,184 +650,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Final/SeventeenSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/CreditCards/Maestro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ButterflyBusiness/buterfly-business.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/CreditCards/AmericanExpress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/CreditCards/DiscoverCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/CreditCards/InstaPayment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/CreditCards/VisaElectron.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Final/CreditCards/Visa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/symbol/Symbol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/symbol/Symbols.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/symbol/SymbolsReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/symbol/SymbolsReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/Entry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/EntryReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/LcdMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/SetupApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/isuer/InstaPayment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/isuer/Issuer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/rule/DoesNotStartWithRule.java">
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/payment/PaymentReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/rule/LengthRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/creditcard/rule/StartsWithRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/iterator/Line.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/iterator/LineIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/iterator/SymbolIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/payment/Payment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/payment/PaymentExporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -840,13 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/payment/PaymentReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -864,45 +678,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/ButterflyBusiness.java">
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/symbol/Symbol.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/document-lcd.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/setup/document-original.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/document-lcd.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/hackathon.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/file/butterfly-business-export.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/symbol/SymbolsReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/file/butterfly-business-bi.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/util/Exporter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/util/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -920,15 +713,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/ButterflyBusinessApp.java">
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/util/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/integerportions/file/partition-10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/integerportions/file/test-results.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/integerportions/solution/Portioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/integerportions/PortionerPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/sequenceresemblance/Sequences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/advanced/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/advanced/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/butterfly-business-bi.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/advanced/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/advanced/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/advanced/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/advanced/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/advanced/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/advanced/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/battleship/simple/BattleShips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/tictactoe/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/research/game/tictactoe/TicTacToeAI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/A/BasicColorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/ABCD/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/HeroAbstract/HeroApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/exercise/week11/ex4/SimilaritiesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/exercise/week10/ex3/SmsSummarizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/exercise/week10/ex3/SmsReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animals/AnimalApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ButterflyBusiness/AccountApp.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -937,54 +880,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/Sequence_Resembalance/Sequence.java">
+    <entry file="file://$PROJECT_DIR$/src/Final/Tests/AmericanExpressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/CreditCards/InstaPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Final/CardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HappinessCountries/HappinessApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/Sequence_Resembalance/SequenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1177#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/challenge/katabank/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../i4-programming-master/src/challenge/katabank/KataBankApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/MoneyCents/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/ABCD/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/CreditCardBadi/CardApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/WordSummariezer/AliceApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Master/java-projects/src/ABCD/Test5.java">
+    <entry file="file://$PROJECT_DIR$/butterfly-business-export.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/hackathon/src/challenge/butterflybusiness/solution/ButterflyBusinessApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/butterfly-business-bi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document-lcd.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document-lcd2222.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/names1-week11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/names-week11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portions-10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PdfExersices/ideone_KWIyQx.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PdfExersices/GitHub and Git instructions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="49" column="6" lean-forward="true" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
         </state>
       </provider>
     </entry>
